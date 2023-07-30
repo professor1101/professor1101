@@ -1,4 +1,4 @@
-<img src="https://github.com/professor1101/khodealiblog/blob/main/index.jpeg" >
+<img src="https://github.com/professor1101/khodealiblog/blob/main/professor.jpeg" >
 
 - 👋 Hi, I’m @professor1101
 - 👀 I’m interested in ...
