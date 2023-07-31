@@ -1,4 +1,4 @@
-# 👋 Hello, I'm a Professor🪶
+# 👋 Hello, I'm Professor🪶
 
 ## 🧑‍💼 About Me
 I am a Python developer with experience in building scalable and maintainable web applications using various frameworks and technologies. I have a strong understanding of object-oriented programming concepts and I am well-versed in databases both SQL and NoSQL. I am passionate about writing clean, readable, and efficient code that follows industry best practices.
