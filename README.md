@@ -1,43 +1,32 @@
-# <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/271/waving-hand_1f44b.png" width="30px"> Hey there! I'm [Your Name] <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/271/smiling-face-with-sunglasses_1f60e.png" width="30px">
-#### A passionate software engineer  <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/microsoft/209/laptop-computer_1f4bb.png" width="30px">
+# 👋 Hi, I'm [Your Name]!
 
-Welcome to my GitHub profile! I enjoy turning complex problems into user-friendly solutions. I'm always working on expanding my skills and experimenting with new technologies. Here are some of the technologies and tools I work with:
+## 🧑‍💻 About Me
+- 🌱 I’m currently learning [Technologies/Programming Languages].
+- 💼 Working as a [Current Job Title].
+- ⚡ Fun fact: I love to [Hobby or Interest].
 
-- 👨‍💻 Programming languages: [Language1], [Language2], [Language3]
-- 🧰 Frameworks and libraries: [Framework1], [Library1], [Framework2]
-- 🌐 Web technologies: HTML, CSS, JavaScript, React, Node.js
-- 🚀 Databases: PostgreSQL, MySQL, MongoDB
-- 💻 Development tools: Git, VSCode, Postman
-- 🛠️ Other technologies: [Tool1], [Tool2], [Tool3]
+## 🔧 Technologies & Tools
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat&logo=css3)
+![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
+![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
+![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
 
-### 🔭 Currently Working On:
-I'm currently working on [Project Name], where I'm developing a [brief description of your project].
+## 📊 GitHub Stats
+![Github stats](https://github-readme-stats.vercel.app/api?username=your-username&count_private=true&show_icons=true&include_all_commits=true)
 
-### 🌱 Currently Learning:
-I'm currently exploring [Technology/Concept]. I find it fascinating and exciting to learn about [Technology/Concept] and its potential applications.
+## 📫 How to reach me
+You can connect with me via [Email](your-email@example.com) or [LinkedIn](https://linkedin.com/in/your-profile).
 
-### 💬 Ask Me About:
-I'd be happy to help and discuss any topics related to software development, especially in the areas of [Topic1], [Topic2], and [Topic3].
+## 🤝 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=github)](https://your-portfolio.com)
 
-### 📫 How to Reach Me:
-Feel free to reach out to me via email [your-email@example.com]. You can also find me on [LinkedIn](https://www.linkedin.com/in/your-profile) and [Twitter](https://twitter.com/your-profile).
-
-### ⚡ Fun Fact:
-Did you know that I enjoy [interest/hobby]? It helps me relax and think creatively outside the coding world.
-
-### 📊 GitHub Stats:
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)
-
-### 🏆 My Achievements:
-- [Achievement1]: Description.
-- [Achievement2]: Description.
-- [Achievement3]: Description.
-
-Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas. Let's connect and build amazing things together! 😄🚀
+Thanks for visiting my profile! 😄
 
 交互引擎(Engine): gpt-4
 状态（Status）：Limited User（白嫖可耻）
 Token限制（TOKEN limit）: 1024
-每日问题配额(Daily Question Quota): 7/10
+每日问题配额(Daily Question Quota): 8/10
