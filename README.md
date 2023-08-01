@@ -1,8 +1,8 @@
 # 👋 Hello, I'm Professor🪶
 
 ## 🧑‍💼 About Me
-I am a Python developer with experience in building scalable and maintainable web applications using various frameworks and technologies. I have a strong understanding of object-oriented programming concepts and I am well-versed in databases both SQL and NoSQL. I am passionate about writing clean, readable, and efficient code that follows industry best practices.
-
+I am a developer & software engineer driven by a strong passion for making open-source contributions more accessible to everyone. My focus is on creating technology that empowers people and fosters community growth.
+My expertise covers this set of technologies and concepts :
 ## 🚀 Skills and Technologies
 - Programming Languages: Python 🐍
 - Web Frameworks: FastAPI, Django REST framework 🌐
@@ -17,13 +17,6 @@ I am a Python developer with experience in building scalable and maintainable we
 - Server maintenance in production environment 🛠️
 - Networking concepts: SSL/TLS, DNS, HTTP 🔒
 - Log collection tools: ELK (Elasticsearch, Logstash, Kibana), EFK (Elasticsearch, Fluentd, Kibana) 📊
-
-
-
-## 📞 Contact Me
-If you're interested in working with me or have any questions, feel free to reach out to me via email at [email protected] or on LinkedIn at [linkedin.com/in/myprofile](https://www.linkedin.com/in/myprofile).
-
-## 🔧 Technologies Used
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Django REST framework](https://img.shields.io/badge/-Django%20REST%20framework-092E20?style=flat-square&logo=django&logoColor=white)
@@ -36,3 +29,8 @@ If you're interested in working with me or have any questions, feel free to reac
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=white)
 ![Gunicorn](https://img.shields.io/badge/-Gunicorn-374151?style=flat-square&logo=gunicorn&logoColor=white)
+
+
+## 📞 Contact Me
+If you're interested in working with me or have any questions, feel free to reach out to me via email at [email protected] or on LinkedIn at [linkedin.com/in/myprofile](https://www.linkedin.com/in/myprofile).
+
